@@ -4,4 +4,4 @@ Twitter del CiberReto (por @CiberPoliES):
 https://twitter.com/CiberPoliES/status/664871406073679872
 
 
-Ver script para localizar la contraseña y diccionario utiliziado basado en el reto y en las contraseñas más habituales.
+Ver script para localizar la contraseña y diccionario utilizado basado en el propio reto y en las contraseñas más habituales.
